@@ -1,0 +1,6 @@
+{
+  "name": "Our Wedding Planner — VoyaraMedia",
+  "description": "Premium, secure, fully functional wedding management platform by VoyaraMedia for ceremonies, tasks, budgets, vendors, guests, invitations, and RSVPs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
